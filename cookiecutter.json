@@ -1,0 +1,6 @@
+{
+	"username": "spin14",
+	"email": "spin14@email.com",
+	"project_name": "?",
+	"project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}"
+}
